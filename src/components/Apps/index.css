@@ -1,0 +1,9 @@
+.app-cards-outer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.apps-container {
+  list-style-type: none;
+}

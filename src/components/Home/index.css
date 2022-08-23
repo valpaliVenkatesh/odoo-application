@@ -1,0 +1,30 @@
+.odd-pricing {
+  background-image: linear-gradient(to right, #6a5873, #584c61);
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.users-count-input-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.users-count-input {
+  min-width: 100px;
+}
+.users-word {
+  color: white;
+  margin: auto;
+  min-width: 50px !important;
+  max-width: 70px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-style: solid;
+  border-color: 1px solid #ced4da;
+}
+.cancelled-price {
+  text-decoration: line-through;
+}

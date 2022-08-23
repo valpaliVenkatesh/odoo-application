@@ -1,0 +1,65 @@
+div .total-cost-card {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100px;
+  border-radius: 5px;
+  border: 1px solid #dee2e6 !important;
+}
+.active-button {
+  background-color: white;
+  border-bottom: none;
+  margin: 0px;
+  padding: 10px;
+  font-weight: bold;
+}
+.cost-buttons-container {
+  background-color: #dee2e6;
+  padding-left: 10px;
+  border-bottom: 1px solid #dee2e6;
+  border-bottom: none;
+}
+.passive-button {
+  padding: 10px;
+  border-left: 1px solid #dee2e6;
+  color: #017e84;
+  font-weight: bold;
+}
+.total-cost-card-row {
+  border-bottom: 1px solid #dee2e6;
+  margin-bottom: 5px;
+}
+.user-word {
+  color: #017e84 !important;
+  border: none;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.cost-in-dollars {
+  font-weight: bold;
+  margin-right: 5px;
+}
+.user-Discount {
+  color: #28a745;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.try-now-container {
+  background-color: #714b67;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.buy-now-button {
+  background-color: #017e84;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: bold;
+}
+.print-sentence {
+  text-align: center;
+  color: #714b67;
+  font-weight: bold;
+}
